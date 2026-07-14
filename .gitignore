@@ -1,1 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+
+.ipynb_checkpoints/
+
 models/model.pkl
+
+*.log
